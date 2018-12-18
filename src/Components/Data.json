@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Pacific rin",
+        "tel":"01293614418",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "name":"IronMan",
+        "tel":"01523614418",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "name":"Shisedo",
+        "tel":"0129314418",
+        "Permission":3
+    },
+    {
+        "id":4,
+        "name":"Pacific rin",
+        "tel":"01293614418",
+        "Permission":1
+    },
+    {
+        "id":5,
+        "name":"Pacific rin",
+        "tel":"01293614418",
+        "Permission":1
+    }
+]
